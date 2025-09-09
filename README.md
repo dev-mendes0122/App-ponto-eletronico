@@ -1,4 +1,4 @@
-Cartão Ponto - App em React Native
+Cartão Ponto eletronico - App em React Native
 
 Aplicativo mobile para registro de ponto eletrônico. Permite ao usuário bater ponto (entrada, saída, intervalos), visualizar histórico de registros e acompanhar o total de horas trabalhadas no dia e na semana.
 
